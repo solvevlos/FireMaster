@@ -1,0 +1,10 @@
+name: FireMaster
+main: talron.FireMaster
+version: 1.0
+description: One of the best minigames ever!
+author: Talron
+softdepend: [Multiverse-Core]
+commands:
+   fm:
+      description: Main FireMaster command
+      usage: /<command>

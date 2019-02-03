@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FireMaster:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FireMaster_jar</output-path>
+    <root id="archive" name="FireMaster.jar">
+      <element id="module-output" name="FireMaster" />
+    </root>
+  </artifact>
+</component>
